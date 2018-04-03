@@ -1,0 +1,38 @@
+
+<dir>
+    <title>Movies</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/crow%20movies.xml</link>
+</dir>
+
+<dir>
+    <title>TV</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/crow%20tv.xml</link>
+</dir>
+
+<dir>
+    <title>Movies 247</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/movies247.xml</link>
+</dir>
+
+<dir>
+    <title>TV 247</title>
+    <link>https://raw.githubusercontent.com/lost50/crow/master/247-tv%20(1).xml</link>
+</dir>
+
+<plugin>
+<name>Search</name>
+<link>plugin://plugin.video.crow/?action=search</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>Settings</name>
+<link>plugin://plugin.video.crow/?action=openSettings</link>
+<thumbnail></thumbnail>
+</plugin>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.the crow/?action=developer</link>
+<thumbnail></thumbnail>
+</plugin>
